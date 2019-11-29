@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TranspositionScript.cs">
+    <Files>
+      <File FileName="Assets/TranspositionScript.cs" Line="667" Column="4" />
+      <File FileName="Assets/TestHarness/TestSelectable.cs" Line="142" Column="4" />
+      <File FileName="Assets/TestHarness/TestHarness.cs" Line="1334" Column="15" />
+      <File FileName="Assets/Editor/Scripts/ModKitSettingsEditor.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
